@@ -14,5 +14,9 @@ int main(int argc, char **argv) {
  
  printf("WIlliam przystup");
  printf("Mechanical Engineer);
+        
+        
+             pirntf("Ahmed Albalushi");
+             printf("Electrical Engineer);
   return 0;
 }
