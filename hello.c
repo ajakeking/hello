@@ -9,14 +9,14 @@
 
 int main(int argc, char **argv) {
  
-  printf("Jake King\n");
+  printf("\nJake King\n");
   printf("Mechanical Engineering\n");
  
- printf("WIlliam przystup");
- printf("Mechanical Engineer);
-        
-        
-             pirntf("Ahmed Albalushi");
-             printf("Electrical Engineer);
-  return 0;
+  printf("\nWIlliam przystup\n");
+  printf("Mechanical Engineer\n");
+  
+  printf("\nAhmed Albalushi\n");
+  printf("Electrical Engineer\n\n");
+  
+ return 0;
 }
