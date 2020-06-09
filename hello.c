@@ -1,5 +1,5 @@
 /**
- * Author: Jake King % william przystup
+ * Author: Jake King
  *         jake.king@huskers.unl.edu
  * Date: 2020/06/9
  * Hack 1.0
